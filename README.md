@@ -6,4 +6,4 @@
 ⚡ Fun fact: I wanna do too many things together that some time I forget important ones.
 🍳 My TechStack :
 
-   https://skillicons.dev/icons?i=js,html,css,bootstrap,django,git,github,mysql,py,tailwind&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,django,git,github,mysql,py,tailwind&perline=4)](https://skillicons.dev)
