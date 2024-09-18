@@ -1,21 +1,73 @@
-👋 Hi, I’m @mgoyal24, more intrestingly known as Muskan.
+# *Muskan Goyal*
+
+## 👋 About Me
+I just completed my MCA (2022-2024) from Guru Nanak Institute of Management with a percentage of *80.5%. I also hold a BCA degree (2018-2021) from Sirifort Institute of Management Studies with a percentage of **75.5%. I'm passionate about developing amazing websites and am on my journey to becoming a **Full Stack Developer*.
+
+## 📚 Education
+- *MCA (2022-2024)*  
+  GNIM-Punjabi Bagh  
+  Percentage: *80.5%*
+
+- *BCA (2018-2021)*  
+  SIMS-Rohini  
+  Percentage: *75.5%*
+
+## 💻 Tech Stack
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <strong>Frontend:</strong><br>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=js,html,css" />
+      </a>
+    </td>
+    <td align="center">
+      <strong>Framework:</strong><br>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Backend:</strong><br>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=django" />
+      </a>
+    </td>
+    <td align="center">
+      <strong>Database:</strong><br>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=mysql" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Scripting/Programming Languages:</strong><br>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=python,cpp" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Version Control:</strong><br>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=github,git" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
-👀 I’m interested in Web development and Python.
+## 🌱 Current Learning
+- *Web Development:* Deepening my skills in front-end and back-end technologies.
+
+## 📧 Contact
+- Email: muskangoyal6968@gmail.com
+
+*Feel free to connect with me(LinkedIn) :* [*Muskan Goyal*](https://www.linkedin.com/in/muskan-goyal-19b03721b/)
 
 
-🌱 I’m currently learning Python development and completed with my MCA.
-
-
-📫 How to reach me muskangoyal6968@gmail.com
-
-
-😄 Pronouns: She/Her
-
-
-⚡ Fun fact: I wanna do too many things together that some time I forget important ones.
-
-
-🍳 My TechStack :
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,django,git,github,mysql,py,tailwind&perline=4)](https://skillicons.dev)
