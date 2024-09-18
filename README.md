@@ -47,7 +47,7 @@ I just completed my MCA (2022-2024) from Guru Nanak Institute of Management with
     <td align="center">
       <strong>Scripting/Programming Languages:</strong><br>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,cpp" />
+        <img src="https://skillicons.dev/icons?i=python" />
       </a>
     </td>
   </tr>
